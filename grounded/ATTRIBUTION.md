@@ -1,0 +1,23 @@
+# Sources, influences, and permission boundaries
+
+Research snapshot: September 20, 2026. The prompts in this directory are newly written design candidates. No third-party source code or complete prompt body is bundled. Conceptual adaptation is not a claim of endorsement or empirically demonstrated superiority.
+
+| Source | What informed this version | What was not adopted |
+| --- | --- | --- |
+| [Kevin Rose / kropdx, Reflection Engine v1.3](https://github.com/kropdx/reflection-engine/tree/1a3301c1306ec82499c2ef85a82e52f34ef995a1) | Whole-life reflection; original-user evidence; cross-domain recurrence; the important correction for off-channel decisions. | Fixed 22-question output and a separate action obligation after every answer; this edition uses optional lenses instead. |
+| [Galligan PR 5](https://github.com/kropdx/reflection-engine/pull/5) and [PR 6](https://github.com/kropdx/reflection-engine/pull/6) | Evidence/instruction separation, provisional interpretations, provenance, channel bias, genuine abstention, theory-collapse review. | Direct commit integration or copying the patch text; no claim the patches are merged. |
+| [EauDoon bounded edition and companion](https://github.com/EauDoon/reflection-engine/tree/aadf611823689b9a9d20f9e8a2da3287e62faedb) | Optional selected-source scope; episode IDs; exclusions; reviewed outputs; reversible actions and follow-up. | Requiring its CLI, JSON contracts, receipts, or source imports for a simple reflection. |
+| [Daniel Miessler, Telos](https://github.com/danielmiessler/Telos) | User-articulated purpose, goals, problems, and strategies as explicit context. The inspected README illustrates a corporate context file, not a personal psychological validator. | Treating goals as proof of observed conduct, or requiring a full personal ontology/KPI system. |
+| [Fabric: t_find_blindspots](https://github.com/danielmiessler/Fabric/blob/b682dad740f24e85ce9a48d23babc6780dd476ac/data/patterns/t_find_blindspots/system.md) and [t_red_team_thinking](https://github.com/danielmiessler/Fabric/blob/b682dad740f24e85ce9a48d23babc6780dd476ac/data/patterns/t_red_team_thinking/system.md) | Focused challenges to beliefs and frames, using relevant context. | Fixed counts of criticisms and exact word quotas; "fully understanding" someone from one context file. |
+| [Fabric: analyze_mistakes](https://github.com/danielmiessler/Fabric/blob/main/data/patterns/analyze_mistakes/system.md) (inspected blob `9d7a4022baab5659248b43bcc7460e0b79a231c9`) | Comparing a documented past reasoning error with a current decision. | Fantastical IQ, pretend hundreds of hours of analysis, imaginary high-dimensional maps, and arbitrary probability adjustments. |
+| [Tim Ferriss, Past Year Review](https://tim.blog/2025/12/26/past-year-review/) | Review actual episodes for reliably positive and negative experiences; preserve what nourishes life, not merely remove problems. | Automatic calendar/account access, automatically scheduling activities, or assuming every negative feeling identifies a bad person or commitment. |
+| [James Clear, Annual Reviews](https://jamesclear.com/annual-review) | A simple balance of successes, difficulties, and direction rather than an exclusively deficit-based review. | Public disclosure of private reflections or turning the report into a productivity score. |
+| [WOOP practice](https://woopmylife.org/en/practice) | Desired result, anticipated obstacle, and one concrete cue-linked response. | Presenting this adaptation as the full WOOP protocol or importing efficacy claims without evaluation. |
+
+The last three are reflection/planning methods, not downloadable meta-prompts identical to Reflection Engine. Their concepts inform newly written instructions here.
+
+## Licensing
+
+No blanket license is assigned to the original repository or third-party contributions by this package. Upstream's license field was null at inspection and no root license file was present. A fork's added license does not by itself establish the upstream author's permission. Retain authorship and existing notices in any real fork; clarify rights before bulk copying or commercial redistribution.
+
+The new additions are maintained separately from the inherited material. A maintainer should deliberately choose an appropriate license for their publishable additions rather than silently applying it to all inherited content. See [GitHub licensing documentation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository). This note is a provenance safeguard, not a legal opinion.

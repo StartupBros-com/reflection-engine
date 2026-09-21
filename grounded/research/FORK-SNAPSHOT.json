@@ -1,0 +1,142 @@
+{
+  "checked_date": "2026-09-20",
+  "scope": "Public fork network; all advertised branches checked. Not private forks, deleted/unadvertised refs, or uncommitted work.",
+  "upstream": {
+    "repository": "kropdx/reflection-engine",
+    "commit": "1a3301c1306ec82499c2ef85a82e52f34ef995a1",
+    "reported_forks": 12,
+    "reported_network_size": 12,
+    "reported_stars": 317,
+    "license_metadata": null
+  },
+  "enumeration_url": "https://api.github.com/repos/kropdx/reflection-engine/forks?per_page=100&sort=newest",
+  "forks": [
+    {
+      "repository": "jasonhwest/reflection-engine",
+      "created_date_utc": "2026-08-23",
+      "branches": {
+        "main": "1a3301c1306ec82499c2ef85a82e52f34ef995a1"
+      },
+      "branch_source": "https://api.github.com/repos/jasonhwest/reflection-engine/branches?per_page=100",
+      "subforks_reported": 0
+    },
+    {
+      "repository": "icygual/reflection-engine",
+      "created_date_utc": "2026-08-20",
+      "branches": {
+        "main": "1a3301c1306ec82499c2ef85a82e52f34ef995a1"
+      },
+      "branch_source": "https://api.github.com/repos/icygual/reflection-engine/branches?per_page=100",
+      "subforks_reported": 0
+    },
+    {
+      "repository": "WojciechHupert/reflection-engine",
+      "created_date_utc": "2026-08-14",
+      "branches": {
+        "main": "1a3301c1306ec82499c2ef85a82e52f34ef995a1"
+      },
+      "branch_source": "https://api.github.com/repos/WojciechHupert/reflection-engine/branches?per_page=100",
+      "subforks_reported": 0
+    },
+    {
+      "repository": "marcoreif1970-blip/reflection-engine",
+      "created_date_utc": "2026-08-07",
+      "branches": {
+        "main": "1a3301c1306ec82499c2ef85a82e52f34ef995a1"
+      },
+      "branch_source": "https://api.github.com/repos/marcoreif1970-blip/reflection-engine/branches?per_page=100",
+      "subforks_reported": 0
+    },
+    {
+      "repository": "DarnocTruc/reflection-engine",
+      "created_date_utc": "2026-08-06",
+      "branches": {
+        "main": "1a3301c1306ec82499c2ef85a82e52f34ef995a1"
+      },
+      "branch_source": "https://api.github.com/repos/DarnocTruc/reflection-engine/branches?per_page=100",
+      "subforks_reported": 0
+    },
+    {
+      "repository": "galligan/reflection-engine",
+      "created_date_utc": "2026-08-05",
+      "branches": {
+        "main": "1a3301c1306ec82499c2ef85a82e52f34ef995a1",
+        "harden-corpus-boundary": "f3f5a6c7cfd71afa1242a9bcfdd6a11a1487a773",
+        "strengthen-evidence-calibration": "b7f2283ca1f30d74b4f5da0b28e5334d99402bf4"
+      },
+      "branch_source": "https://api.github.com/repos/galligan/reflection-engine/branches?per_page=100",
+      "subforks_reported": 0
+    },
+    {
+      "repository": "C2R-Marketing/reflection-engine",
+      "created_date_utc": "2026-08-05",
+      "branches": {
+        "main": "1a3301c1306ec82499c2ef85a82e52f34ef995a1"
+      },
+      "branch_source": "https://api.github.com/repos/C2R-Marketing/reflection-engine/branches?per_page=100",
+      "subforks_reported": 0
+    },
+    {
+      "repository": "EauDoon/reflection-engine",
+      "created_date_utc": "2026-08-04",
+      "branches": {
+        "main": "aadf611823689b9a9d20f9e8a2da3287e62faedb",
+        "improve/product-cycle-20260909": "0a94531562a31af716765cec7d52551f04e884cf",
+        "improve/product-cycle-20260910": "79884078c7b8270838eb909224bd50bd45aa6775",
+        "improve/product-cycle-20260911": "8aff243a77b4b9483928e0cbd5260659316aa715"
+      },
+      "branch_source": "https://api.github.com/repos/EauDoon/reflection-engine/branches?per_page=100",
+      "subforks_reported": 0
+    },
+    {
+      "repository": "paulmars/reflection-engine",
+      "created_date_utc": "2026-08-04",
+      "branches": {
+        "main": "1a3301c1306ec82499c2ef85a82e52f34ef995a1"
+      },
+      "branch_source": "https://api.github.com/repos/paulmars/reflection-engine/branches?per_page=100",
+      "subforks_reported": 0
+    },
+    {
+      "repository": "Cromm22/reflection-engine",
+      "created_date_utc": "2026-08-03",
+      "branches": {
+        "main": "1a3301c1306ec82499c2ef85a82e52f34ef995a1"
+      },
+      "branch_source": "https://api.github.com/repos/Cromm22/reflection-engine/branches?per_page=100",
+      "subforks_reported": 0
+    },
+    {
+      "repository": "maXXusXYZ/reflection-engine",
+      "created_date_utc": "2026-08-03",
+      "branches": {
+        "main": "1a3301c1306ec82499c2ef85a82e52f34ef995a1"
+      },
+      "branch_source": "https://api.github.com/repos/maXXusXYZ/reflection-engine/branches?per_page=100",
+      "subforks_reported": 0
+    },
+    {
+      "repository": "rtalmo/reflection-engine",
+      "created_date_utc": "2026-08-03",
+      "branches": {
+        "main": "1a3301c1306ec82499c2ef85a82e52f34ef995a1"
+      },
+      "branch_source": "https://api.github.com/repos/rtalmo/reflection-engine/branches?per_page=100",
+      "subforks_reported": 0
+    }
+  ],
+  "eaudoon_nondefault_branches": {
+    "improve/product-cycle-20260909": {
+      "ahead_of_main": 0,
+      "behind_main": 26
+    },
+    "improve/product-cycle-20260910": {
+      "ahead_of_main": 0,
+      "behind_main": 14
+    },
+    "improve/product-cycle-20260911": {
+      "ahead_of_main": 0,
+      "behind_main": 3
+    }
+  }
+}
