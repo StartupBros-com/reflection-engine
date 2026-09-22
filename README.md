@@ -2,7 +2,7 @@
 
 **What might your AI notice about you that you keep missing?**
 
-One prompt. Twenty-two questions about your blind spots, strengths, relationships, habits, and the direction of your life. Paste it into the AI you already talk to about personal things—not just work.
+One prompt. Twenty-two questions about what you're good at, what actually suits you, how you affect people, and what you keep missing. Paste it into the AI you already talk to about personal things—not just work.
 
 ## How to use it
 
@@ -23,7 +23,7 @@ Run this prompt now. Use the personal conversations, memories, and material abou
 
 ## What I am asking for
 
-Help me notice what is difficult to see from inside my own life: the blind spots, strengths, contradictions, habits, relationships, and choices that keep showing up. Connect things I have said and done across time rather than merely summarizing my favorite topics.
+Help me notice what is difficult to see from inside my own life: my real capabilities and limits, the conditions and choices that suit me, my effect on other people, and the blind spots, habits, and contradictions that keep showing up. Connect things I have said and done across time rather than merely summarizing my favorite topics.
 
 Write as a perceptive, honest conversation partner. Be specific, engaging, warm, and willing to say something uncomfortable. An answer can be surprising, funny, or piercing without being cruel. Do not flatter me, manufacture a flaw to seem insightful, or retreat into generic reassurance. Make the strongest useful interpretation the evidence supports, and distinguish it from what you actually know.
 
@@ -63,7 +63,7 @@ Answer all 22 questions in order, using their numbered headings. For each:
 2. Give a brief confidence line, such as **Confidence: 7/10 — recurring behavior, but the motive is uncertain.** This is an editorial judgment, not a measured probability or clinical score. Use 9–10 only for specific recurring observations with strong, independent support and meaningful alternatives checked; 7–8 for clear but qualified patterns; 4–6 for mixed or limited evidence; 1–3 for speculation or an unsupported premise. Claims about hidden motives should not inherit the confidence of observed behavior.
 3. Develop the answer in two or three substantial paragraphs when justified. Use concrete references to what I said, chose, corrected, completed, or returned to. For high-confidence claims, include at least two independent examples. Cite available sources naturally; when links are unavailable, identify the conversation or event clearly without inventing dates or quotations. I should not have to prepare IDs or a source index.
 4. Include the strongest relevant counterexample or alternative explanation. Explain what the pattern enables or costs, without forcing the same interpretation into every answer.
-5. End with **What to do with this:** a short, practical response to this particular insight. That might be something to try, a strength to protect, a question worth testing, or permission to leave something alone. These are options, not 22 new assignments.
+5. End with **What to do with this:** a short, practical response to this particular insight. That might be something to try, a strength to protect, a question worth testing, or permission to leave something alone. Name the actual choice this should inform—or something I should stop unnecessarily questioning. These are options, not 22 new assignments.
 
 A question is not proof of its premise. When evidence is missing, retain that question's heading, say what cannot be established, and briefly identify what relevant evidence would help. Do not fill the space with a likely-sounding personality claim or advice that assumes the missing claim is true. If almost no personal context is accessible, say so up front and keep the unsupported answers brief rather than inventing a whole-life profile.
 
@@ -73,49 +73,49 @@ Give the later questions as much attention as the early ones. Do not replace the
 
 Choose the one with the strongest combination of evidence and practical importance. Explain where it appears, what keeps it outside my view, and why changing it could matter beyond one situation. Distinguish what you observed from any theory about its emotional purpose. Give a concrete way to test your interpretation.
 
-## 2. Which well-supported observation about me might I push back against?
+## 2. What am I actually good at—and where am I misjudging my abilities?
 
-Offer something I could reasonably find uncomfortable, not an insult disguised as honesty. Explain the evidence and the best argument against your interpretation. Do not predict resistance just because I have asked for candor; I may already recognize the pattern or have good reasons to disagree.
+Identify specific capabilities I have demonstrated, including strengths I may dismiss because they feel ordinary to me. Separate ability from confidence, familiarity, enthusiasm, and opportunity to practice. Where does my confidence have less support than I give it? Credit my contribution accurately rather than treating team results or assistant-written work as solely mine. Name the situations where each conclusion holds and where it does not. Missing evidence is not evidence of inability; do not invent rankings, percentiles, or natural talent. Explain what I could use more deliberately and where feedback would help.
 
-## 3. Is there a conclusion I keep reopening after my own experience has largely settled it?
+## 3. Which weaknesses are worth fixing, and which should I work around or accept?
 
-Distinguish a decision that genuinely needs more information from one where more research may not change the underlying choice. Show positive evidence of that distinction. It is valid to find no such pattern. Do not equate curiosity, reconsideration, or unresolved records with self-deception.
+Identify a limitation that repeatedly obstructs something I actually care about, then distinguish it from a preference, a lack of practice, a temporary constraint, or a poor fit with the situation. Would learning a specific skill, changing the conditions, sharing or delegating the task, or accepting the limitation make the most sense? Explain the likely benefit and cost in my circumstances. Do not make being well-rounded the goal, mistake dislike for inability, or use acceptance to excuse avoidable harm or basic responsibilities.
 
 ## 4. Where have I added difficulty without adding enough value?
 
-Identify unnecessary complexity, conditions, precision, or preparation only where the evidence supports it. First explain which parts are warranted. Then show where effort stops paying for itself, what the simpler version would preserve, and what I might need to give up to choose it.
+Bring together unnecessary complexity, repeated preparation, and decisions I keep reopening only where the evidence supports them. First explain which effort is warranted. Then identify where more work stops buying useful information or better outcomes, and what simpler action would preserve the value. Require positive evidence of a stalled decision or recurring cost, not merely an absent completion update. Contrast this with a situation where my deliberation pays off. Curiosity and careful work are not automatically avoidance.
 
 ## 5. Which recurring emotional response carries the largest hidden cost?
 
 Trace a specific trigger, response, immediate benefit, and longer-term consequence. The cost might involve attention, ease, connection, opportunity, or time rather than money. Avoid assigning a clinical label or inventing a psychological mechanism where only the outward behavior is known.
 
-## 6. Where does activity look like advancement without changing the result?
+## 6. Under what conditions do I thrive—and when do I struggle?
 
-Look for repeated preparation or refinement that has stopped producing useful information or outcomes. Require evidence that action has actually stalled, not simply that I have not reported completion. Contrast it with an area where my deliberation does lead to real progress.
+Compare actual situations in which similar demands brought out different behavior or results. Look for the conditions that changed rather than labeling me globally disciplined, lazy, confident, or incapable. Distinguish what I prefer from what demonstrably helps, and a plausible environmental explanation from a proven cause. What small change in expectations, autonomy, pace, surroundings, or collaboration is worth trying? Use these as possibilities, not conclusions supplied by the prompt. Keep relationship-specific dynamics for the later questions.
 
 ## 7. What am I repeatedly trying to secure, and what would count as enough?
 
-Infer the sought-after result from repeated choices rather than selecting a dramatic need from a stock personality story. Is my pursuit bounded by a meaningful finish line, or does the finish line keep moving? Explain both its productive role and its potential cost.
+Infer the sought-after result from repeated choices rather than selecting a dramatic need from a stock personality story. Does this pursuit influence more decisions than I acknowledge? Label that inference and consider ordinary explanations and contrary examples. Is the pursuit bounded by a meaningful finish line, or does the finish line keep moving? Explain both its productive role and its potential cost, without assuming ambition or wanting recognition is a defect.
 
-## 8. When does thinking help me face reality, and when might it keep reality at a distance?
+## 8. When does one of my strengths become the wrong tool?
 
-Show where analysis, research, language, or technical problem-solving genuinely helps. Then consider whether the same ability sometimes substitutes for choosing, feeling, having a conversation, or tolerating uncertainty. Do not assume that intelligence is a defense or that a practical problem needs an emotional explanation.
+Find a specific approach that genuinely serves me well in one setting but creates a recurring cost in another. Show evidence for both sides instead of inventing a dark side for every strength. What makes the second situation different, and what cue would tell me to switch approaches? Preserve the capability while identifying its useful limits. Keep the focus on where the approach fits, not a general instruction to do less.
 
-## 9. Which motive seems to influence more of my choices than I explicitly acknowledge?
+## 9. Which version of success would I actually enjoy living?
 
-Make a serious attempt where the evidence permits one, but label the inference. Explain which independent choices point in this direction and which contradict it. Consider ordinary explanations before a hidden fear or need. A useful answer need not be a single secret that explains my life.
+Compare the appeal of an achievement with the ordinary days and recurring responsibilities it would involve. Use my stated values and reported experiences, not a claim to know my true desires better than I do. Distinguish being good at something from wanting a life built around it. Which costs have I shown a willingness to bear? Recognition, duty, security, and contribution can all be legitimate motives. Leave room for interests worth keeping even without excellence. Identify a possible mismatch or a genuinely good fit; do not assume either.
 
-## 10. What experience or reward do I keep returning to beyond its usefulness?
+## 10. What do I expect to enjoy, and what actually leaves me satisfied?
 
-Look for a repeated appetite or behavioral pull, not a diagnosis of addiction. Explain when it enriches my life and when it starts taking more than it gives. Do not treat intensity, enthusiasm, or an unusual preference as a problem without evidence of a meaningful cost.
+Compare what I anticipated before an experience with what I later reported, where both are available. Is there a recurring gap—or a reliable match—between the rewards I pursue and the experiences I value afterward? Distinguish immediate excitement, relief, and lasting satisfaction. Missing follow-up does not prove disappointment, and one experience does not establish a rule. Focus on lived episodes rather than repeating the previous answer about life goals. Name something worth making more room for, or an expectation worth revising.
 
 ## 11. Which pair of competing wants best explains my internal friction?
 
 Show why both sides are real and reasonable, what each protects, and where their collision appears in actual choices. Distinguish a live tension from a resolved one or a trade-off I have knowingly accepted. Avoid forcing consistency where a person can legitimately want different things.
 
-## 12. What impression might I create that misses something important about me?
+## 12. What is it like to be on the receiving end of me?
 
-Use actual interactions or feedback when available. Separate what people have said from your speculation about what they think. Explain how my own behavior may contribute to the impression and whether changing that behavior is worth the cost, rather than assuming I must be understood by everyone.
+Compare my intentions with actual feedback and observable responses in interactions I have shared. Where does my impact differ from what I mean to convey, help people more than I realize, or remain unclear? Another person’s experience may be valid rather than a misunderstanding to correct. Separate their reported words, my account of their behavior, and your speculation; you are not an independent observer. Identify one consequential interaction I could handle differently, or something I already do that is worth preserving—not a campaign to win universal approval.
 
 ## 13. What would a genuinely compatible close relationship look like for me?
 
@@ -137,9 +137,9 @@ Use a conditional scenario, not a forecast of destiny. Explain the present behav
 
 Find an existing action, relationship, skill, or choice that appears to be building something durable. Show the evidence that it is happening, not just an aspiration. Explain how I could protect it without turning it into another optimization project. Give this as much scrutiny as a critical finding.
 
-## 18. Which part of myself deserves less apology and more honest ownership?
+## 18. Which story about myself has outlived the evidence?
 
-Distinguish a legitimate preference, need, ambition, or boundary from behavior that harms others. Do not invent a history of apologizing. Explain what accepting this part of myself would permit, along with the responsibility that comes with it. Ownership should not become exemption from feedback.
+Compare an old self-description or prior interpretation with later behavior. What have I learned, changed, or stopped needing that my self-image may not reflect? Look for outdated flattering stories as carefully as outdated criticism. Distinguish actual change from different circumstances or a different sample of conversations. Explain what the evidence now supports, what remains uncertain, and what I could stop unnecessarily apologizing for or defending. Do not announce that I have outgrown something merely because it sounds encouraging.
 
 ## 19. Where should I hold myself more accountable than my current explanations allow?
 
@@ -168,7 +168,7 @@ This is personal reflection, not therapy, diagnosis, or a validated assessment. 
 
 ## About
 
-Inspired by [Kevin Rose's original Reflection Engine](https://github.com/kropdx/reflection-engine/blob/1a3301c1306ec82499c2ef85a82e52f34ef995a1/Reflection-Engine-v1.3.md). This adaptation restores the full 22-question experience in newly written wording, with clearer checks for evidence, counterexamples, and outdated assumptions. It is not an official Kevin Rose release or a proven improvement in accuracy.
+Inspired by [Kevin Rose's original Reflection Engine](https://github.com/kropdx/reflection-engine/blob/1a3301c1306ec82499c2ef85a82e52f34ef995a1/Reflection-Engine-v1.3.md). This adaptation keeps a full 22-question personal reflection in newly written wording, expanding the focus on demonstrated abilities, worthwhile changes, life fit, and interpersonal impact. Evidence checks, counterexamples, and room for corrections are built into the prompt. It is not an official Kevin Rose release or a proven improvement in accuracy.
 
 The evidence-handling approach also draws on the ideas in [Galligan's contributions](https://github.com/kropdx/reflection-engine/pull/6) and [EauDoon's fork](https://github.com/EauDoon/reflection-engine/tree/aadf611823689b9a9d20f9e8a2da3287e62faedb). No blanket license is applied to inherited material. Earlier versions remain in this repository's history.
 
